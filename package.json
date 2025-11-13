@@ -1,0 +1,10 @@
+{
+  "name": "gdynia-rp-netlify",
+  "version": "1.1.0",
+  "description": "Dependencies for Netlify Functions",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "moment": "^2.29.1"
+  }
+}

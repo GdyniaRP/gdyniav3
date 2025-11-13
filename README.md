@@ -1,2 +1,2 @@
-# gdyniav3
-Mega strona gdyni ez
+# gdyniarp
+👉 Oficjalna strona projektu RolePlay GdyniaRP
